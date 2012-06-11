@@ -77,7 +77,7 @@ The following modifications have been made to the code:
   complexity increase as a product of knapsack size
   and number if candidate iems.
   I found this to be true for sample
-  data set p08.txt (see project) where the JVM ran
+  data set p08.txt where the JVM ran
   out of heap space. Instead of increasing the heap
   space or dropping the data set I attempted a simple
   scaling algorithm. For pack size > 10,000 I divide
