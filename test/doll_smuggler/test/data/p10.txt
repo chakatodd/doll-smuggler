@@ -1,0 +1,29 @@
+# Data set from http://rosettacode.org/wiki/Knapsack_problem/0-1#Clojure
+
+max weight: 400
+
+available dolls:
+
+   name    weight    value  optimal
+map            9      150        1
+compass       13       35        1
+water        153      200        1
+sandwich      50      160        1
+glucose       15       60        1
+tin           68       45        0
+banana        27       60        1
+apple         39       40        0
+cheese        23       30        0
+beer          52       10        0
+suntan_cream  11       70        1
+camera        32       30        0
+t-shirt       24       15        0
+trousers      48       10        0
+umbrella      73       40        0
+trousers_h20  42       70        1
+overclothes   43       75        1
+note_case     22       80        1
+sunglasses     7       20        1
+towel         18       12        0
+socks          4       50        1
+book          30       10        0

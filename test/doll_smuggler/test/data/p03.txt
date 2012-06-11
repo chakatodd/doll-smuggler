@@ -1,0 +1,13 @@
+# Data set from http://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
+
+max weight: 190
+
+available dolls:
+
+name    weight    value  optimal
+doll_1	56		 50		  1
+doll_2	59		 50		  1
+doll_3	80		 64		  0
+doll_4	64		 46		  0
+doll_5	75		 50		  1
+doll_6	17		  5		  0

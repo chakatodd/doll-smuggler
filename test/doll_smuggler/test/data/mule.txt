@@ -1,0 +1,29 @@
+# Data set from https://github.com/micahalles/doll-smuggler
+
+max weight: 400
+
+available dolls:
+
+name    weight value optimal
+luke        9   150       1
+anthony    13    35       1
+candice   153   200       1
+dorothy    50   160       1
+puppy      15    60       1
+thomas     68    45       0
+randal     27    60       1
+april      39    40       0
+nancy      23    30       0
+bonnie     52    10       0
+marc       11    70       1
+kate       32    30       0
+tbone      24    15       0
+tranny     48    10       0
+uma        73    40       0
+grumpkin   42    70       1
+dusty      43    75       1
+grumpy     22    80       1
+eddie       7    20       1
+tory       18    12       0
+sally       4    50       1
+babe       30    10       0
